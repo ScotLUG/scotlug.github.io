@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{{ page.title }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta charset="utf-8" />
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-9c338e9b267e2470d82fa6a95aa2b62d.ico" />
     <link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/favicon-152-ed19df4260af0b2f06b4bd34b4f5cac5.png" />
@@ -14,6 +14,20 @@
     <![endif]-->
   </head>
   <body>
-    {{ content }}
+    {% include nav.html %}
+    {% if page.hero %}
+    <div class="jumbotron">
+      <div class="container">
+        {{ page.hero | markdownify }}
+      </div>
+    </div>
+    {% endif %}
+    <div class="container">
+      {% if page.title %}
+      <h1 class="page-header">{{ page.title }}</h1>
+      {% endif %}
+      {% include notice.html %}
+      {{ content }}
+    </div>
   </body>
 </html>
