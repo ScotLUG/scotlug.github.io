@@ -33,5 +33,13 @@
       {% endif %}
       {{ content }}
     </div>
+    <hr>
+    <footer class="container text-muted">
+      <ol class="breadcrumb">
+        <li><a href="https://pages.github.com/">GitHub</a></li>
+        <li><a href="https://github.com/{{ site.repo }}">{{ site.repo }}</a></li>
+        <li><a href="https://github.com/{{ site.repo }}/blob/master/{{ page.path }}">{{ page.path }}</a></li>
+      </ol>
+    </footer>
   </body>
 </html>
