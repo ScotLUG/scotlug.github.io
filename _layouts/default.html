@@ -26,7 +26,11 @@
       {% if page.title %}
       <h1 class="page-header">{{ page.title }}</h1>
       {% endif %}
-      {% include notice.html %}
+      {% if site.notice %}
+      <div class="alert alert-info">
+        {{ site.notice | markdownify }}
+      </div>
+      {% endif %}
       {{ content }}
     </div>
   </body>
