@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-sm-6">
+    {{ content }}
+  </div>
+  <div class="col-sm-6">
+    {% for item in page.media %}
+    <div class="thumbnail">
+      <a href="{{ item.uri }}"><img src="{{ item.uri }}" alt="{{ item.alt }}" /></a>
+      <div class="caption">
+        <p>{{ item.caption }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,11 @@
+<div id='map'></div>
+<script>
+ var map = L.map('map');
+ map.setView([55.8656, -4.265], 17);
+ marker = L.marker([55.86575, -4.26485]).addTo(map);
+ L.tileLayer('//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+   attribution: '&copy; <a href="//www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+   maxZoom: 18,
+   subdomains: ["a", "b", "c"],
+ }).addTo(map);
+</script>
