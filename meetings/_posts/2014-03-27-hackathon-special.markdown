@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+This month we've got a few short talks for you. A bit of a Hackathon Special!
+
+## Glasgow Future Cities Hackathons
+
+Rob Wilson will be speaking to us about his teams recent entry into the Glasgow Open Hackathon, with a bit of background into actually competing at the event! [Slides](https://drive.google.com/file/d/0B8ywF5F6Wg7YOHA5QzhGRU1jQnM/edit?usp=sharing)
+
+## Int Space Apps Challenge 2014
+
+William Nelson will be telling us about the International Space Apps Challenge (ISAC), with the different challenges that have been set and how to get involved. [Slides](https://drive.google.com/file/d/0B8ywF5F6Wg7YOHA5QzhGRU1jQnM/edit?usp=sharing)
+
+## Scotlug Website
+
+Kenny will be talking about plans for the new website, and taking suggestions for cool new features that we should be building and supporting!
+
+## Open Source and Q&A
+
+As always, we’re going to have a 20 minute session at the end for a Linux or Open Source Q&A session. It is our hope that you can use this time to work on/ with a project that you’re really passionate about, if not get advice on how to go about doing this.
+
+We’ll be adjourning to the CCA bar afterwards for more of a chat and a bit of a chill-out.
+
+Hope to see you all there!
+
+## Stats
+
+attendence: 16
+
+pub-time: 21:25

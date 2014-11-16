@@ -1,0 +1,35 @@
+---
+layout: default
+title: Meetings
+---
+
+<p class="lead">ScotLUG meets every last Thursday of the month at the <a href="http://www.electronclub.org/doku.php">Electron Club</a>.  Meetings are open to anyone and free to attend: there is no need to register, just turn up!</p>
+
+<h2>Location</h2>
+
+<p>People gather and meet in the Electron Club (<a href="https://www.openstreetmap.org/way/60085920">CCA, 350 Sauchiehall Street, Glasgow, G2 3JD</a>) at around 19:00, and talks start at 19:30. We move across to the CCA Terrace Bar at around 21:00.</p>
+
+{% include map.html %}
+
+{% for meeting in site.categories.meetings %}
+<article>
+  <h1 class="page-header"><a href="{{ meeting.url }}">{{ meeting.title }}</a> <small><time datetime="{{ meeting.date }}">{{ meeting.date | date_to_long_string }}</time></small></h1>
+  {{ meeting.content }}
+</article>
+{% endfor %}
+
+<article>
+  <h1 class="page-header"><a href="http://www.scotlug.org.uk/wiki/Meetings">Previous Events</a></h1>
+  <p>Past meetings are available <a href="http://www.scotlug.org.uk/wiki/Meetings">on the wiki</a>.</p>
+  <ul>
+    <li><a href="http://www.scotlug.org.uk/wiki/2013_Meetings">2013 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2012_Meetings">2012 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2011_Meetings">2011 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2010_Meetings">2010 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2009_Meetings">2009 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2008_Meetings">2008 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2007_Meetings">2007 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/2006_Meetings">2006 Meetings</a></li>
+    <li><a href="http://www.scotlug.org.uk/wiki/Pre_2006_Meetings">Pre-2006 Meetings</a></li>
+  </ul>
+</article>

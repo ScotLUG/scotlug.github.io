@@ -1,0 +1,18 @@
+---
+layout: default
+title: Lets make 2014/2015 the best year for ScotLUG yet!
+---
+
+Our next meeting will be on Thursday 28th August at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:30PM on Thursday.
+
+This month, we’ll be kicking off another year of ScotLUG. As we’ve done over the past few years, we have used or first meeting of the academic year to plan,or at least set forward a roadmap of the coming year.
+
+If you’ve got any ideas for talks, or anything you want to bring up on the night – let me know!
+
+Open Source and Q&A As always, we’re going to have a 20 minute session at the end for a Linux or Open Source Q&A session. It is our hope that you can use this time to work on/ with a project that you’re really passionate about, if not get advice on how to go about doing this.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed on the night as we need to check on availability of space at the CCA Bar.
+
+As always, for more information – you can visit the website at www.scotlug.org.uk.
+
+Hope to see you all there!
