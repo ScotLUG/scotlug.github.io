@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: thumbnail
+media:
+- uri: /assets/scottish_tux.svg
+  alt: Scottish Tux
 title: Welcome
 lead: This is the official site for the **Scottish Linux User Group** in Glasgow.
 
@@ -8,10 +11,6 @@ lead: This is the official site for the **Scottish Linux User Group** in Glasgow
 ## Meetings
 
 Meetings are held at 19:00, every last Thursday of the month, at the [Electron Club][].  Check out our past meetings, what’s on this month, and what might be coming up on our [meetings](/meetings) page.
-
-## Media
-
-ScotLUG usually uses the [Scottish Tux](/assets/scottish_tux.svg) to refer to itself.
 
 ## Communication
 
