@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kenny Duffus: A first semi-proper electronics project
+title: A first semi-proper electronics project - Kenny Duffus
 ---
 
 This month we've got 2 short talks:
