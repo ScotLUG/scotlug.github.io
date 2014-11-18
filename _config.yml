@@ -1,3 +1,4 @@
 exclude: [ Gemfile* ]
-title: Scottish Linux User Group
+permalink: /:categories/:year/:month/:title
 repo: ScotLUG/scotlug.github.io
+title: Scottish Linux User Group
