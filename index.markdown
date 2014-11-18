@@ -1,8 +1,8 @@
 ---
 layout: default
-hero: |
-  # <small>Welcome to</small> ScotLUG!
-  This is the official site for the **Scottish Linux User Group** in Glasgow.
+title: Welcome
+lead: This is the official site for the **Scottish Linux User Group** in Glasgow.
+
 ---
 
 ## Meetings
