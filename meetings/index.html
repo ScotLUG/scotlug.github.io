@@ -16,7 +16,7 @@ lead: |
 
 {% for meeting in site.categories.meetings %}
 <article>
-  <h1 class="page-header"><a href="{{ meeting.url }}">{{ meeting.title }}</a> <small><time datetime="{{ meeting.date }}">{{ meeting.date | date_to_long_string }}</time></small></h1>
+  <h1 class="page-header"><a href="{{ meeting.url }}">{{ meeting.title }}</a> <small><time datetime="{{ meeting.date | date_to_xmlschema }}">{{ meeting.date | date_to_long_string }}</time></small></h1>
   {{ meeting.content }}
 </article>
 {% endfor %}
