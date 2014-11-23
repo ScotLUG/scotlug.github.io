@@ -6,6 +6,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico" />
     <link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/favicon-152.png" />
     <link rel="stylesheet" media="all" href="/assets/application.css" data-turbolinks-track="true" />
+    <link rel="stylesheet" media="all" href="/vendor/octicons/octicons.css" data-turbolinks-track="true" />
     <script src="/assets/application.js" data-turbolinks-track="true"></script>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <!--[if lt IE 9]>
@@ -37,9 +38,8 @@
     <hr>
     <footer class="container text-muted">
       <ol class="breadcrumb">
-        <li><a href="https://pages.github.com/">GitHub</a></li>
-        <li><a href="https://github.com/{{ site.repo }}">{{ site.repo }}</a></li>
-        <li><a href="https://github.com/{{ site.repo }}/blob/master/{{ page.path }}">{{ page.path }}</a></li>
+        <li><a href="https://github.com/{{ site.repo }}" title="{{ site.repo }} on GitHub"><span class="octicon octicon-mark-github"></span></a></li>
+        <li><a href="https://github.com/{{ site.repo }}/blob/master/{{ page.path }}" title="{{ page.path }} on GitHub">{{ page.path }}</a></li>
       </ol>
     </footer>
   </body>
