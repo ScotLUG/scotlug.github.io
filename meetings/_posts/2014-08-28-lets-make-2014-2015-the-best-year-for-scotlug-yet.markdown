@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Lets make 2014/2015 the best year for ScotLUG yet!
 ---
 

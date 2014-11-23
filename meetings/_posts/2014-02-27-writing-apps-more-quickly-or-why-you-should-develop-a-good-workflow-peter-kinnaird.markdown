@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Writing Apps more quickly (or why you should develop a good workflow) - Peter Kinnaird
 ---
 

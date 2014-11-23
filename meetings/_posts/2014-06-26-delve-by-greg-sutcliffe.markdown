@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Delve, by Greg Sutcliffe
 ---
 

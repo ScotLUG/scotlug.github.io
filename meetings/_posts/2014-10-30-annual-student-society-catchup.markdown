@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 This month is our annual student welcome event, where we've got members from different local student computing groups coming to tell us about what they do.

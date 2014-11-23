@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Post-Referendum Discussion Night!
 ---
 

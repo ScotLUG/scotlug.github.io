@@ -1,3 +1,6 @@
+defaults:
+  - values:
+      layout: default
 exclude: [ Gemfile* ]
 permalink: /:categories/:year/:month/:title
 repo: ScotLUG/scotlug.github.io

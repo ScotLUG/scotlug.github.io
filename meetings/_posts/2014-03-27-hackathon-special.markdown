@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 This month we've got a few short talks for you. A bit of a Hackathon Special!

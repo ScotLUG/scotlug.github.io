@@ -1,5 +1,4 @@
 ---
-layout: default
 title: A first semi-proper electronics project - Kenny Duffus
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home Media, XBMC, Plex and Plasma Media Center
 ---
 
