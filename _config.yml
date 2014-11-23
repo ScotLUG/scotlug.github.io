@@ -2,3 +2,4 @@ exclude: [ Gemfile* ]
 permalink: /:categories/:year/:month/:title
 repo: ScotLUG/scotlug.github.io
 title: Scottish Linux User Group
+url: http://scotlug.github.io
