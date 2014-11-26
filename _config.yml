@@ -2,7 +2,7 @@ defaults:
   - values:
       layout: default
 exclude: [ Gemfile* ]
-permalink: /:categories/:year/:month/:title
+permalink: /:categories/:year/:title
 repo: ScotLUG/scotlug.github.io
 title: Scottish Linux User Group
 url: http://scotlug.github.io
