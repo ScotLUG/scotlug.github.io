@@ -10,6 +10,9 @@ lead: This is the official site for the **Scottish Linux User Group** in Glasgow
 
 ## Meetings
 
+{% assign meeting = site.categories.meetings.first %}
+The next meeting, **[{{ meeting.title }}]({{ meeting.url }})**, is on {{ meeting.date | date: "%A, %-d %B" }}.
+
 Meetings are held at 19:00, every last Thursday of the month, at the [Electron Club][].  Check out our past meetings, what’s on this month, and what might be coming up on our [meetings](/meetings) page.
 
 ## Communication
