@@ -11,12 +11,12 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li{% if page.title == 'Meetings' %} class="active"{% endif %}>
-          <a href="/meetings">Meetings</a>
+        {% assign site_pages = site.pages | sort: 'title', 'last' %}
+        {% for site_page in site_pages reversed %}
+        <li{% if page.dir == site_page.dir %} class="active"{% endif %}>
+          <a href="{{ site_page.url | remove: 'index.html' }}">{{ site_page.title }}</a>
         </li>
-        <li{% if page.title == 'About' %} class="active"{% endif %}>
-          <a href="/about">About</a>
-        </li>
+        {% endfor %}
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
