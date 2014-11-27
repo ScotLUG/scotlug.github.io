@@ -2,9 +2,7 @@
 title: General Chat and Pub Meetup
 ---
 
-This month we have had some troubles organising a main talk.
-
-We're still going to meet up though at the usual time for some general Linux and Open Source chat.
+This month we will be looking over the website progress and having a discussion led by Calum.
 
 We'll be meeting at the usual time, at the usual place. 7PM - 9PM at the Electron Club.
 
