@@ -12,6 +12,6 @@ lead: |
   [freenode]: https://freenode.net/
 ---
 
-Membership is free and open to anyone anywhere who has an interest in OSS software.  With an average of 40 members on-line at any one time there is usually constant chat, scurrilous rumour and occasionally high quality help and advice on OSS software and also hardware issues.
+Membership is free and open to anyone anywhere who has an interest in FLOSS.  With an average of 40 members on-line at any one time there is usually constant chat, scurrilous rumour and occasionally high quality help and advice on FLOSS and also hardware issues.
 
 We tend to be mostly Glasgow or West Central Belt based and our (mostly) tight geographical grouping allows for frequent face-to-face meetings and much beer-to-mouth interfacing also.  This all makes ScotLUG a tightly-knit group, perhaps unique amonst IRC channels.
