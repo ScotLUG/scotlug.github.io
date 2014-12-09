@@ -26,7 +26,7 @@
     {% endif %}
     <div class="container">
       {% unless page.lead %}
-      <h1 class="page-header">{{ page.title }}</h1>
+      <h1 class="page-header">{{ page.title }}{% if page.date %} <small><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time></small>{% endif %}</h1>
       {% endunless %}
       {% if site.notice %}
       <div class="alert alert-info">
