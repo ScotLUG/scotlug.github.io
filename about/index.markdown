@@ -4,14 +4,10 @@ media:
 - uri: /assets/group_photo.jpg
   alt: Group photo
   caption: Members of ScotLUG in 2014.
+lead: "[#scotlug](https://webchat.freenode.net/?randomnick=1&amp;channels=%23scotlug&amp;prompt=1) is the IRC presence of ScotLUG, the Scottish Linux User Group.  We are hosted on the [freenode](https://freenode.net/) network."
 title: About
-lead: |
-  [#scotlug][] is the IRC presence of ScotLUG, the Scottish Linux User Group.  We are hosted on [freenode][].  The IRC channel has in many ways come to be the embodiment of ScotLUG due to the immediacy of the media.
-
-  [#scotlug]: https://webchat.freenode.net/?randomnick=1&amp;channels=%23scotlug&amp;prompt=1
-  [freenode]: https://freenode.net/
 ---
 
-Membership is free and open to anyone anywhere who has an interest in FLOSS.  With an average of 40 members on-line at any one time there is usually constant chat, scurrilous rumour and occasionally high quality help and advice on FLOSS and also hardware issues.
+If you have an interest in free and open-source software you are welcome to come along to a meeting, or hang out with us on <abbr title="Internet Relay Chat">IRC</abbr>.  There are generally several dozen members idling in the channel who are happy to provide help, advice and information on software and hardware issues.
 
-We tend to be mostly Glasgow or West Central Belt based and our (mostly) tight geographical grouping allows for frequent face-to-face meetings and much beer-to-mouth interfacing also.  This all makes ScotLUG a tightly-knit group, perhaps unique amonst IRC channels.
+Meetings are fun and informal, and we are always looking for interesting talks and show-and-tells.  If you have project that you would like to share with us, or subject that you are passionate about, we would love to hear about it!
