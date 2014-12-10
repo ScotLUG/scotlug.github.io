@@ -1,0 +1,10 @@
+<nav>
+  <ul class="pager">
+    {% if page.previous %}
+    <li class="previous"><a href="{{ page.previous.url }}" title="{{ page.previous.title }}"><span class="octicon octicon-arrow-left"></span> {{ page.previous.date | date: "%B" }}</a></li>
+    {% endif %}
+    {% if page.next %}
+    <li class="next"><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.date | date: "%B" }} <span class="octicon octicon-arrow-right"></span></a></li>
+    {% endif %}
+  </ul>
+</nav>

@@ -25,6 +25,9 @@
     </div>
     {% endif %}
     <div class="container">
+      {% if page.previous or page.next %}
+      {% include pager.html %}
+      {% endif %}
       {% unless page.lead %}
       <h1 class="page-header">{{ page.title }}{% if page.date %} <small><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time></small>{% endif %}</h1>
       {% endunless %}
