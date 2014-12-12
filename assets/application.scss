@@ -1,0 +1,14 @@
+---
+---
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap";
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap/theme";
+
+{% include css/leaflet.css %}
+
+body {
+  padding-top: 50px
+}
+
+.leaflet-container {
+  height: 180px
+}
