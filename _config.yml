@@ -1,8 +1,10 @@
 defaults:
   - values:
       layout: default
-exclude: [ Gemfile* ]
+exclude: [ Gemfile*, README*, bower* ]
 permalink: /:categories/:year/:title
 repo: ScotLUG/scotlug.github.io
+sass:
+  sass_dir: bower_components
 title: Scottish Linux User Group
 url: http://scotlug.github.io

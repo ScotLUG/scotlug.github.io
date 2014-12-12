@@ -1,0 +1,17 @@
+{
+  "name": "scotlug.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ScotLUG/scotlug.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "leaflet": "~0.7.3"
+  }
+}
