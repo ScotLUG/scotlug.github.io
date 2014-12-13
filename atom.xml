@@ -1,0 +1,25 @@
+---
+layout: ~
+---
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title }}</title>
+  <link href="{{ site.url }}" />
+  <link href="{{ site.url }}{{ page.url }}" rel="self" />
+  <id>urn:uuid:16d7ef8d-7a3a-48b3-b868-e468f8a999ab</id>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author>
+    <name>Scottish Linux User Group</name>
+  </author>
+  {% for post in site.posts %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="{{ site.url }}{{ post.url }}" />
+    <link rel="edit" href="https://github.com/{{ site.repo }}/edit/master/{{ post.path }}" />
+    <id>{{ site.url }}{{ post.id }}</id>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
