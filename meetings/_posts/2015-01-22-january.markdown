@@ -1,5 +1,5 @@
 ---
-title: Building redundant & transparent firewalls with OpenBSD
+title: Building Redundant & Transparent Firewalls with OpenBSD
 ---
 
 The next ScotLUG meeting will be on Thursday 22nd January at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
@@ -17,3 +17,5 @@ We will be adjourning to a local bar afterwards, the exact location to be confir
 As always, for more information – you can visit the website at <a href="http://www.scotlug.org.uk">www.scotlug.org.uk</a>.
 
 Hope to see you all there!
+
+**Update: You get get a copy of Freds Slides at notes on his [Website](http://www.schoolio.co.uk/diary/2015-01-22/)**.
