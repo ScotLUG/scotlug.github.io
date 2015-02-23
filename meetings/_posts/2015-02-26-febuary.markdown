@@ -2,4 +2,15 @@
 title: Introduction to Version Control with Git
 ---
 
-More information to follow
+The next ScotLUG meeting will be on Thursday 26th Febuary at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+
+**Introduction to Git**
+This month, I'll be doing the talk myself. An Introduction to Git. In this talk - I'll be hoping to introduce not only the basic features of git that make it (or other similar tools) essential. I'll also be talking about how some of its more exotic features work.
+
+Open Source and Q&A As always, we’re going to have a 20 minute session at the end for a Linux or Open Source Q&A session. It is our hope that you can use this time to work on/ with a project that you’re really passionate about, if not get advice on how to go about doing this.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed as we need to check on availability of space at the CCA Bar.
+
+As always, for more information – you can visit the website at <a href="http://www.scotlug.org.uk">www.scotlug.org.uk</a>.
+
+Hope to see you all there!
