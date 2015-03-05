@@ -4,7 +4,7 @@ layout: ~
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ site.title }}</title>
+  <title>{{ site.title | xml_escape }}</title>
   <link href="http://www.scotlug.org.uk" />
   <link href="http://www.scotlug.org.uk{{ page.url }}" rel="self" />
   <id>urn:uuid:16d7ef8d-7a3a-48b3-b868-e468f8a999ab</id>
@@ -14,7 +14,7 @@ layout: ~
   </author>
   {% for post in site.posts %}
   <entry>
-    <title>{{ post.title }}</title>
+    <title>{{ post.title | xml_escape }}</title>
     <link href="http://www.scotlug.org.uk{{ post.url }}" />
     <link rel="edit" href="https://github.com/{{ site.repo }}/edit/master/{{ post.path }}" />
     <id>http://www.scotlug.org.uk{{ post.id }}</id>
