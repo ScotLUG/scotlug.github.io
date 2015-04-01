@@ -26,4 +26,4 @@ Coming up this April, Glasgow Caledoniain Ethical Hacking Society will be hostin
 [Edinburgh]: http://www.edlug.org.uk/
 [UK Linux User Groups organisation]: https://lug.org.uk/
 [user groups across Scotland]: https://lug.org.uk/lugs/scotland
-[Registration and more information is available here.]: https://2015.spaceappschallenge.org/location/glasgow/
+[Registration and more information is available here]: https://2015.spaceappschallenge.org/location/glasgow/
