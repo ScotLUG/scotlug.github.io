@@ -17,6 +17,8 @@ Our IRC channel, [#scotlug][], is usually busy and helpful.  There is a [mailing
 
 In addition to Glasgow, [Falkirk][] and [Edinburgh][] both have active Linux User Groups.  The [UK Linux User Groups organisation][] has a list of other [user groups across Scotland][].
 
+Coming up this April, Glasgow Caledoniain Ethical Hacking Society will be hosting Glasgow's 3rd International Space Apps Challenge with NASA. This is a weekend long hackathon open to all, and if you can't physically join in, virtual participation is supported. [Registration and more information is available here][].
+
 [Electron Club]: http://www.electronclub.org/doku.php
 [#scotlug]: https://webchat.freenode.net/?randomnick=1&amp;channels=%23scotlug&amp;prompt=1
 [mailing list]: http://mailman.lug.org.uk/mailman/listinfo/scottish
@@ -24,3 +26,4 @@ In addition to Glasgow, [Falkirk][] and [Edinburgh][] both have active Linux Use
 [Edinburgh]: http://www.edlug.org.uk/
 [UK Linux User Groups organisation]: https://lug.org.uk/
 [user groups across Scotland]: https://lug.org.uk/lugs/scotland
+[Registration and more information is available here]: https://2015.spaceappschallenge.org/location/glasgow/
