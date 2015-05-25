@@ -1,5 +1,5 @@
 ---
-title: Hacking Midi Hardware from the 80s.
+title: Hacking Midi Hardware from the 80s
 ---
 
 The next ScotLUG meeting will be on Thursday 28th May at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
