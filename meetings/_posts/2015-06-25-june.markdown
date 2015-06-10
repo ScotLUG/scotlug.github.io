@@ -1,0 +1,26 @@
+---
+title: Keeping Busy - productivity and task management (using open source tools)
+---
+The next ScotLUG meeting will be on Thursday 25th May at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed on the night as we need to check on availability of space at the CCA Bar.
+
+Greg has this to say:
+
+A few months ago, at FOSDEM, Kenny said to me "you're the most
+organised person I know", to which I replied that I'm terribly
+unorganised, but that I have a great set of tools to help me cope with
+it.
+
+However, it is true that over the last few years, a series of things
+have occurred that have forced me to get better at tracking things
+that need doing, and managing my time properly. Doing so has lead to
+the predictable outcome of being more productive, but also some less
+obvious ones which will be discussed at the end of the talk.
+
+This talk will start by covering some of the ideas behind how I handle
+my tasks and processes - this is independant of implementation. It
+will then cover some possible implementations of those ideas, focusing
+mainly on the open-source tools I use personally.
+
+Hope to see you all there!
