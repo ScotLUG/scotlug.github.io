@@ -1,0 +1,21 @@
+---
+title: Solving the Travelling Salesman Problem with the Raspberry Pi, C++ and Qt4
+---
+
+Hey all!
+
+The next ScotLUG meeting will be this coming Thursday 26th November at the usual Spot, the Electron Club in the CCA.
+
+We should be kicking around the Electron Club around 7:00PM.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed on the night as we need to check on availability of space at the CCA Bar.
+
+This month, Quintin Connell has been very kind to offer us a talk.
+
+In this talk I will explore using C++ and Qt4 for cross-platform development in particular on the Raspberry Pi to solve the travelling salesman problem. I will also discuss issues relating to version control using subversion and differencing tools.
+
+Some information about Quintin:
+
+Quintin has used Linux since 1996 when he was introduced to it. In those days the distro of choice was Slackware and Apache was the NCSA httpd daemon. Now uses Kubuntu and Raspbian on the Raspberry Pi.
+
+Hope to see you all there!
