@@ -1,12 +1,12 @@
 ---
-title: &ast;BSD is Dead! or future archeology...
+title: *BSD is Dead! or future archeology...
 ---
 
 The next ScotLUG meeting will be on Thursday 28th January at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
 
 This month we’ve got a talk by Fred Crowson, but unfortunately no axes will be wielded due to the lack of forests in Central Glasgow to provide plausible deniability as a lumberjack...
 
-** &ast;BSD is Dead! or future archeology...installing OpenBSD 5.9-beta **
+** *BSD is Dead! or future archeology...installing OpenBSD 5.9-beta **
 
 Synopsis:
 A brief history of the &ast;BSD family of operating systems, followed by a practical session of installing OpenBSD on a USB flash drive to make a bootable OpenBSD system that can be run from the pendrive.
