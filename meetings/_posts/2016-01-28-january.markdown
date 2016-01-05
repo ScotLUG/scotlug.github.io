@@ -1,0 +1,22 @@
+---
+title: &ast;BSD is Dead! or future archeology...
+---
+
+The next ScotLUG meeting will be on Thursday 28th January at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+
+This month we’ve got a talk by Fred Crowson, but unfortunately no axes will be wielded due to the lack of forests in Central Glasgow to provide plausible deniability as a lumberjack...
+
+** &ast;BSD is Dead! or future archeology...installing OpenBSD 5.9-beta **
+
+Synopsis:
+A brief history of the &ast;BSD family of operating systems, followed by a practical session of installing OpenBSD on a USB flash drive to make a bootable OpenBSD system that can be run from the pendrive.
+
+For the practical session, if people could bring a laptop with a usb port that can be booted from.
+
+Fred will have some USB pendrives that can be used - but if people have their own pendrives that are at least 2Gb (you can use a 1 Gb but that is a bit more complex :~]) then that would be good.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed as we need to check on availability of space at the CCA Bar.
+
+As always, for more information – you can visit the website at <a href="http://www.scotlug.org.uk">www.scotlug.org.uk</a>.
+
+Hope to see you all there!
