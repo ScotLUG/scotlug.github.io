@@ -1,0 +1,15 @@
+---
+title: Javascript - On the Server?!?!
+---
+
+The next ScotLUG meeting will be on Thursday 24th March at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
+
+This month, we have an interesting talk on Node.js by John Soutar. John currently works as a Front-end Web Applications Developer at STV.
+
+John will be presenting a talk on Node.js, a server-side JavaScript environment. The talk will contain information about the best ways for deploying Node.js, implementing automated build systems using tools such as Gulp and Grunt alongside outlining a number of pitfalls that need to be avoided when rolling Node.js out on production systems.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed as we need to check on availability of space at the CCA Bar.
+
+As always, for more information – you can visit the website at <a href="http://www.scotlug.org.uk">www.scotlug.org.uk</a>.
+
+Hope to see you all there!
