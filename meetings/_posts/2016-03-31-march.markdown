@@ -1,8 +1,8 @@
 ---
-title: Javascript - On the Server?!?!
+title: Javascript - On the Server
 ---
 
-The next ScotLUG meeting will be on Thursday 24th March at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
+The next ScotLUG meeting will be on Thursday 31st March at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
 
 This month, we have an interesting talk on Node.js by John Soutar. John currently works as a Front-end Web Applications Developer at STV.
 
