@@ -7,7 +7,7 @@ title: Meetings
 
 {% include map.html %}
 
-{% for meeting in site.categories.meetings %}
+{% for meeting in site.categories.meetings limit:0 %}
 <article>
   <h2 class="page-header"><a href="{{ meeting.url }}">{{ meeting.title }}</a> <small><time datetime="{{ meeting.date | date_to_xmlschema }}">{{ meeting.date | date_to_long_string }}</time></small></h2>
   {{ meeting.excerpt }}
