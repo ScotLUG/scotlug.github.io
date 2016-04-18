@@ -1,0 +1,15 @@
+---
+title: Cloud Computing and IoT with the Raspberry Pi
+---
+
+The next ScotLUG meeting will be on Thursday 28th April at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
+
+This month we have a talk from Jeremy Singer, a lecturer in Computing Science at the University of Glasgow.
+
+Raspberry Pi devices are everywhere. Almost 10 million units have been shipped. So what are we doing with them? 
+In this talk, Jeremy will describe two projects at Glasgow - based on cloud computing (using Raspberry Pi racks to model a micro-datacenter) and internet of things (using Raspberry Pi boards to sense how buildings are being used). This interactive talk will feature Lego, Docker, Space Invaders, Burglar alarms
+and other cool stuff.
+
+Jeremy has interests in programming languages, virtual machines, cloud computing and manycore processors. http://www.dcs.gla.ac.uk/~jsinger or @jsinger_compsci for more details.
+
+Hope to see you all there!
