@@ -1,0 +1,17 @@
+---
+title: Surviving the "Hug of Death" - Running a Web Server in a modern environment
+---
+
+The next ScotLUG meeting will be on Thursday 27th of October at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 6:45PM. We will be aiming to start the talk at 7:30PM.
+
+This month we have Kenny Coyle presenting a talk/ demonstration.
+
+Over the past few years, it has become much simpler to run and maintain your own Web Server. What happens however, when a piece of content that you are hosting suddenly becomes extremely popular?
+
+In this talk, we will demo a basic web server installation, running on a Raspnerry Pi, hosting a simple piece of content. We will the
+n perform a load test that will inevitably break this installation and make the system very unresponsive.
+
+We will then continue to go over setting up the various infrastructure elements that will allow our system to withstand such a heavy
+load of traffic and continue to operate (and be responsive).
+
+Following the talk we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA.
