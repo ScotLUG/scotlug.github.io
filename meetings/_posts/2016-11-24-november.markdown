@@ -9,6 +9,8 @@ This month we will be shaking the format up a little and we are going to be disc
 Kindly chaired by Euan Birch of the Caledonian University Ethical Hacking Society - we will be starting the evening with some background into the Bill, then we will be breaking out into a set of questions where we can examine the possitive and negative aspects of this new legislation.
 
 To kick things off, the first question will be:
-  * What oversight is there for the various parts of the legislation, and are they sufficient
+<ul>
+  <li>What oversight is there for the various parts of the legislation, and are they sufficient</li>
+</ul>
 
 Following the session we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA.
