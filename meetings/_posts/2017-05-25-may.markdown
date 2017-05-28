@@ -16,4 +16,29 @@ Graeme will be bringing an RTL TV Stick, a DIY Antenna and a Raspberry Pi, he wi
 
 This talk will be primarilly focused on decoding ADSB plane positioning data, feeding to plane tracking websites.
 
-Hope to see you all there!
+### Talk Links
+
+Flightware - <a href="https://www.flightaware.com">https://www.flightaware.com</a>
+
+ADS-B Exchange - <a href="https://adsbexchange.com/">https://adsbexchange.com/</a>
+
+Nooelec RTL-SDR stick - <a href="https://www.amazon.co.uk/NooElec-NESDR-SMArt-Enclosure-R820T2-Based/dp/B01GDN1T4S">https://www.amazon.co.uk/NooElec-NESDR-SMArt-Enclosure-R820T2-Based/dp/B01GDN1T4S</a> (works with cheaper sticks, but this one is very well made, and doesn't block all your other usb ports)
+
+ADS-B filter - <a href="https://www.modmypi.com/electronics/antenna/antenna-filters/flightaware-ads-b-1090mhz-band-pass-sma-filter/">https://www.modmypi.com/electronics/antenna/antenna-filters/flightaware-ads-b-1090mhz-band-pass-sma-filter/</a>
+(highly recommend a filter, reduces interference from strong signals)
+
+ADS-B antenna - <a href="http://www.ebay.co.uk/itm/Antenna-ads-b-collinear-great-gain-for-usb-dongle-flightbox-SBS-Radarbox-microAD-/201923278606">http://www.ebay.co.uk/itm/Antenna-ads-b-collinear-great-gain-for-usb-dongle-flightbox-SBS-Radarbox-microAD-/201923278606</a>  (antenna i use at home)
+
+Dump1090 Mutability - <a href="https://github.com/mutability/dump1090">https://github.com/mutability/dump1090</a> (easier to work with than stock dump1090, works better with external web server)
+
+Dump1090 MutabilityMOD - <a href="https://github.com/tedsluis/dump1090">https://github.com/tedsluis/dump1090</a> (heat maps, other graphics mods)
+
+ADSB Feeder setup script (sets up dump1090, associated tools) <a href="https://github.com/jprochazka/adsb-receiver">https://github.com/jprochazka/adsb-receiver</a>
+
+Ted Sluis Mutability Mods - <a href="https://github.com/tedsluis/dump1090">https://github.com/tedsluis/dump1090</a>
+
+Ted Sluis Dump1090 Data parsing scripts - <a href="https://github.com/tedsluis/dump1090.socket30003">https://github.com/tedsluis/dump1090.socket30003</a>
+
+### Talk Slides
+
+'''<a href="">Download</a>'''
