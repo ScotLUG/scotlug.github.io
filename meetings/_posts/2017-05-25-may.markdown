@@ -41,4 +41,4 @@ Ted Sluis Dump1090 Data parsing scripts - <a href="https://github.com/tedsluis/d
 
 ### Talk Slides
 
-'''<a href="https://raw.githubusercontent.com/ScotLUG/scotlug.github.io/master/assets/talkassets/Plane%20tracking%20for%20fun%20and%20profit.ppt">Download</a>'''
+<a href="https://raw.githubusercontent.com/ScotLUG/scotlug.github.io/master/assets/talkassets/Plane%20tracking%20for%20fun%20and%20profit.ppt">Download</a>
