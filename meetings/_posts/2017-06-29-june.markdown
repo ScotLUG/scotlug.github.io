@@ -1,0 +1,15 @@
+---
+title: How NixOS changed my life
+---
+
+The next ScotLUG meeting will be on Thursday 29th June at the usual Spot, the Electron Club in the CCA.
+
+We should be kicking around the Electron Club around 7:00PM.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed on the night as we need to check on availability of space at the CCA Bar.
+
+This months talk has been kindly offered by Linus Heckemann.
+
+How NixOS changed my life
+
+Nix, dubbed "the purely functional package manager", provides a wonderful solution for many of the problems I found myself having while working with traditional package managers and with docker. NixOS is a Linux distribution based on Nix, which provides the power of declarative functional configuration to set up the whole OS. In my talk, I hope to convince you of how wonderful NixOS is too!
