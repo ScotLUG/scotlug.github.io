@@ -2,11 +2,9 @@
 title: Voice Controlled Personal Assistants
 ---
 
-Hey all!
-
 The next ScotLUG meeting will be on Thursday 26th October at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
 
-This month, we are going to be hosting a round-table discussion on automated home assistant devices such as the Amazon Echo, Google Home and Apples Siri. In particular, we'd like to cover:
+This month, we are going to be hosting a round-table discussion on automated home assistant devices such as the Amazon Echo, Google Home and Apple's Siri. In particular, we'd like to cover:
 
  * The underlying technology that makes these devices work.
  * The privacy and security concerns that these devices pose.
