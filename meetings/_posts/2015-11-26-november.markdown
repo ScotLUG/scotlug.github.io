@@ -4,7 +4,7 @@ title: Solving the Travelling Salesman Problem with the Raspberry Pi, C++ and Qt
 
 Hey all!
 
-The next ScotLUG meeting will be this coming Thursday 26th November at the usual Spot, the Electron Club in the CCA.
+The next ScotLUG meeting will be this coming Thursday 26th November at the usual spot, the Electron Club in the CCA.
 
 We should be kicking around the Electron Club around 7:00PM.
 

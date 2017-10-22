@@ -1,11 +1,18 @@
 ---
-title: Planning 2017 - 2018
+title: Voice Controlled Personal Assistants
 ---
 
-The next ScotLUG meeting will be on Thursday 31st August at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+Hey all!
+
+The next ScotLUG meeting will be on Thursday 26th October at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+
+This month, we are going to be hosting a round-table discussion on automated home assistant devices such as the Amazon Echo, Google Home and Apples Siri. In particular, we'd like to cover:
+
+ * The underlying technology that makes these devices work.
+ * The privacy and security concerns that these devices pose.
+
+Given how useful this technology can be, is there a balance that can be found? Is this a technology that we should generally avoid, or is it so useful we should aim to improve and bring into wider use?
 
 We will be adjourning to a local bar afterwards, the exact location to be confirmed on the night as we need to check on availability of space at the CCA Bar.
-
-In line with the past few years, the first meeting after summer has been our planning meeting. We will be getting together to come up with a suggested talk plan and try to flesh out some new ideas for the coming year.
 
 Hope to see you all there!

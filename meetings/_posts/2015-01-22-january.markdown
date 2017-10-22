@@ -2,7 +2,7 @@
 title: Building Redundant & Transparent Firewalls with OpenBSD
 ---
 
-The next ScotLUG meeting will be on Thursday 22nd January at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+The next ScotLUG meeting will be on Thursday 22nd January at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
 
 This month we’ve got a talk by Fred Crowson on about his favourite project: OpenBSD. ScotLUG is happening a little earlier this month as a number of us wont be available the week later.
 

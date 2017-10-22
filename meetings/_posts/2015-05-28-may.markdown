@@ -2,7 +2,7 @@
 title: Hacking Midi Hardware from the 80s
 ---
 
-The next ScotLUG meeting will be on Thursday 28th May at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+The next ScotLUG meeting will be on Thursday 28th May at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
 
 This month we’ve got a talk by Gordon Pearce about his adventures with Midi Hardware from the 80s, the Forth Programming Language and how he has been hacking the internals of these devices for the past several years.
 

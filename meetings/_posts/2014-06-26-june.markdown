@@ -2,7 +2,7 @@
 title: Delve, by Greg Sutcliffe
 ---
 
-Our next meeting will be on Thursday 26th June at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:30PM on Thursday.
+Our next meeting will be on Thursday 26th June at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:30PM on Thursday.
 
 This month we’ve got a talk by Greg Sutcliffe on his project: Delve.
 

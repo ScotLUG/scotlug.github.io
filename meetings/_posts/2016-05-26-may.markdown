@@ -2,7 +2,7 @@
 title: Lightning Talks
 ---
 
-The next ScotLUG meeting will be on Thursday 26th May at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
+The next ScotLUG meeting will be on Thursday 26th May at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
 
 This month we're going to have a series of lightning talks. This is a great opportunity for a number of regular (or even not so regular) attendees to present a quick 5 - 10 minute talk on something that they find interesting. There are no defined parameters for a talk subject, so it doesn't need to be strictly about linux this month.
 

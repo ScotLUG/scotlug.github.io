@@ -2,7 +2,7 @@
 title: Round-Table Discussion on Embedded Devices supporting GNU/Linux
 ---
 
-The next ScotLUG meeting will be this coming Thursday, 26th March at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+The next ScotLUG meeting will be this coming Thursday, 26th March at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
 
 This month, we're going to try out the round-table discussion format again, as it has worked quite well recently. I propose a discussion about the cool things we can do now that embedded linux devices are becoming more and more commonplace. Raspberry Pi, Minnowboard and even Android Devices are making hobbyist projects and commercial projects easier and more creative. Of course, if anyone would like to bring a different subject to the table - feel free to discuss it on the list :)
 

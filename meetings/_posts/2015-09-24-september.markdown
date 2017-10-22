@@ -2,7 +2,7 @@
 title: Vulnerable WordPress in a Corporate Context
 ---
 
-The next ScotLUG meeting will on Thursday 24th September at the usual Spot, the Electron Club in the CCA. 
+The next ScotLUG meeting will on Thursday 24th September at the usual spot, the Electron Club in the CCA. 
 
 We should be kicking around the Electron Club around 7:00PM.
 

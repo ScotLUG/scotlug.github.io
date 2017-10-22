@@ -2,7 +2,7 @@
 title: Cloud Computing and IoT with the Raspberry Pi
 ---
 
-The next ScotLUG meeting will be on Thursday 28th April at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
+The next ScotLUG meeting will be on Thursday 28th April at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM. We will be aiming to start the talk at 7:30PM.
 
 This month we have a talk from Jeremy Singer, a lecturer in Computing Science at the University of Glasgow.
 

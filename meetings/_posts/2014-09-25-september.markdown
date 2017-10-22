@@ -2,7 +2,7 @@
 title: Post-Referendum Discussion Night!
 ---
 
-Our next meeting will be on Thursday 25th September at the usual Spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:30PM on Thursday.
+Our next meeting will be on Thursday 25th September at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:30PM on Thursday.
 
 Thursday 18th of September was an extremely important day for Scotland, regardless which box you crossed!
 
