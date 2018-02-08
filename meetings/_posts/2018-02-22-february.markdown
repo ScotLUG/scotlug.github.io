@@ -1,0 +1,23 @@
+---
+title: 20th Anniversary Curry Night
+---
+
+The next ScotLUG meeting will be on Thursday 22nd February.
+
+This month marks 20 years since the first meeting of the Scottish Linux Users Group, or ScotLUG (then known as SLUG) The first meeting took place in February 1998, in the Admiral bar on Waterloo St, and was attended by a handful of people.
+
+As something a little different, we will not be meeting at the Electron Club. Instead, we will be getting together for a 20th Anniversary Curry Night at the Koh-i-Noor in Glasgow City Centre.
+
+If you're interested in coming along, please let us know by filling out the form at: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9On8syH6B3zphVyvgd5WtrU3uMWYVbtTsf8Q_bJt3Rfd6OA/viewform">https://docs.google.com/forms/d/e/1FAIpQLSf9On8syH6B3zphVyvgd5WtrU3uMWYVbtTsf8Q_bJt3Rfd6OA</a>
+
+---
+
+Tony Dyer announced via comp.os.linux.announce usenet newsgroup that the first official meeting would be in March in the same venue, from there the group grew in size and moved venue several times. We have met in the Counting House on George Square, Borders bookshop on Buchanan St, Livingstone Tower in Strathclyde Uni, and Electron Club.  
+
+Over the years the numbers of attendees at meetings has grown and shrunk, not due to the lack of Linux users, but mostly due to Linux becoming a little more mainstream, far easier to install and having wider hardware support.  In the late 90s and early 2000s, you had to very carefully choose hardware to use with Linux, however now, common hardware is supported out of the box with most distributions.  
+
+Over the years ScotLUG has run a couple of "install fests" helping people get Linux installed onto their computer, hosted Richard Stallman for a talk, reviewed books, modified the first generation of Microsoft XBOX to run Linux, Started a collaboration with SEPA to bring environmental monitoring into the 21st century.
+
+ScotLUG members have gone on to work with many large organisations, many working with Linux on a day to day basis, including the BBC, STV, CERN, and Facebook.
+
+ScoLUG may not be a world leading organisation, but as well as helping out new users, educating existing users on new things you can do under Linux, and helping members network professionally, many friendships have been built, some lasting for most of the time ScotLUG has existed.  Surely then, ScotLUG has definitley been a positive in the Computing world of the west of Scotland.

@@ -1,0 +1,15 @@
+---
+title: Micro Devices for Makers
+---
+
+The next ScotLUG meeting will be on Thursday 25th January at the usual spot, the Electron Club in the CCA.
+
+We should be kicking around the Electron Club around 7:00PM.
+
+We will be adjourning to a local bar afterwards, the exact location to be confirmed on the night as we need to check on availability of space at the CCA Bar.
+
+This month, we will be hosting a round table discussion and demonstration of the various small form factor devices such as the Raspberry Pi and the Odroid.
+
+Attendees are encouraged to bring their own projects.
+
+Hope to see you all there!
