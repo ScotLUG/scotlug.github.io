@@ -1,0 +1,9 @@
+---
+title: Beginning the 3D Printing Journey
+---
+
+The next ScotLUG meeting will be on Thursday 29th March at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 6:45PM. We will be aiming to start the talk at 7:30PM.
+
+This month, we have Kenny Coyle talking about his adventures so far with 3D printing, using the Anet A8 Reprap Kit. This talk will detail the build process, the hardware and the various open source software that is involved.
+
+With this being early on in the 3D Printing journey, we should also have a demo, results may be very varied!
