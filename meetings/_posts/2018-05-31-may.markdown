@@ -1,0 +1,15 @@
+---
+title: Modernising IRC
+---
+
+The next ScotLUG meeting will be on Thursday 31st May at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 6:45 PM. We will be aiming to start the talk at 7:30 PM.
+
+This month, we have Alistair McKinlay talking about the state of current IRC services.
+
+Proprietary, hosted chat services are becoming the norm in businesses and even for open source projects. Why are they not using IRC?
+
+Using a proprietary, hosted chat service restricts businesses and communities in what they do with their data, it provides vendor lock in, and fragments the chat industry. There are reasons that these chat services are used, and the IRC community needs to respond to this.
+
+This talk will go over the reasons that people use modern chat clients like Slack, and how we can make IRC more modern to allow people to come back to a more open chat protocol, while not alienating existing users and dealing with backwards compatibility.
+
+Following the talk we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA.

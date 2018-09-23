@@ -1,0 +1,9 @@
+---
+title: Linux Subsystem for Windows
+---
+
+The next ScotLUG meeting will be on Thursday 26th April at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 6:45 PM. We will be aiming to start the talk at 7:30 PM.
+
+This month, we have Andrew Smillie talking about the Linux Subsystem available for Windows. Andrew will be covering what this new update does, and explains the differences between the Linux Subsystem and a Full installation of a Linux Distribution.
+
+Following the talk we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA.
