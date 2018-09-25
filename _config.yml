@@ -1,7 +1,7 @@
 defaults:
   - values:
       layout: default
-exclude: [ Gemfile*, README*, bower* ]
+exclude: [ Gemfile*, README*, bower*, vendor ]
 permalink: /:categories/:year/:title.html
 repo: ScotLUG/scotlug.github.io
 sass:
