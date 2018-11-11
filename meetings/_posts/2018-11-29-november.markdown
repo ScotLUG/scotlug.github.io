@@ -1,0 +1,27 @@
+---
+title: Lightning Talks
+---
+
+The next ScotLUG meeting will be on Thursday 29th November. We should be kicking around the Electron Club around 7 PM. We will be aiming to start the talk at 7:30 PM.
+
+At the tail end of the meeting last month, I opened the floor to a discussion about the various technical tooling that we use to organise our monthly events, aiming to get a steer on what things are working and what things can be improved. Naturally, this discussion veered away from the technology side of things and more towards the content of our meetings, their structure and how we plan them.
+
+To this end, we’re going to be making a few lightweight changes to make the meetings more fun and bit more informative for our attendees.
+
+Going forward, we’re going to be emphasising our focus on Free Libre Open Source Software and Hardware. We’re also going to be re-introducing the Q&A section at the end of the meeting.
+
+I’ve update the website with some description of our meeting structure, you can find it at [https://scotlug.org.uk/about/](https://scotlug.org.uk/about/)
+
+Going forward, I’m looking for someone to help out with general announcements and promotion of ScotLUG. Let me know if you’re interested in helping out here.
+
+This month. I’m looking for some volunteers to present a 10-minute lightning talk. If you’re interested, please let us know at the following link: [https://docs.google.com/forms/d/1WDEsRnL96R8ZBTV_ztacz3MpvsfVUDiJ63XG6DMVw0U/viewform](https://docs.google.com/forms/d/1WDEsRnL96R8ZBTV_ztacz3MpvsfVUDiJ63XG6DMVw0U/viewform)
+
+Lightning talks can be about a project that you’re working on (or a project that you’re passionate about). If you’re unsure, we can help you to develop your talk, just let us know by email.
+
+ * 7:30PM - Lightning Talks
+ * 8:30PM - Linux / FLOSS Q&A
+ * 8:45PM - Adjourn to the Pub
+
+Following the talk we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA. There is no requirement to purchase food or drink if you don't want to.
+
+Hope to see you all there.
