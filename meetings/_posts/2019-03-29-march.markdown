@@ -1,0 +1,14 @@
+---
+title: The State of Wireless Security
+---
+
+The next ScotLUG will be on Thursday 29th March. This month we have William Nelson talking about the state of Wireless Security.
+
+William will be going over a number of concept:
+A brief history of wireless security
+The current "best-practices" in terms of configuration and the various options available
+A comparison between best practices and the real data gathered from the streets of Glasgow City Centre.
+
+Following the talk we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA. There is no requirement to purchase food or drink if you don't want to.
+
+Hope to see you all there.
