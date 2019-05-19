@@ -1,0 +1,19 @@
+---
+title: ActivityPub
+---
+
+The next ScotLUG will be on Thursday 30th May. This month we Neil McKillop talking about ActivityPub!
+
+---
+
+Don't you miss the days when the web really was the world's greatest decentralised network? Before everything got locked down into a handful of walled gardens? 
+
+Enter ActivityPub! ActivityPub is a decentralised social networking protocol based on the ActivityStreams 2.0 data format. ActivityPub is an official W3C recommended standard published by the W3C Social Web Working Group. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and subscribing to content.
+
+Mastodon is one of the most feature rich implementations of ActivityPub - join us for a quick demo of what it's capable of and what might come in the near future!
+
+---
+
+Following the talk we will be adjourning to a local bar, this is likely to be the Terrace Bar of the CCA. There is no requirement to purchase food or drink if you don't want to.
+
+Hope to see you all there.
