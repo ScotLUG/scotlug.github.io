@@ -1,5 +1,5 @@
 ---
-title: Self-Hosted Discussios
+title: Self-Hosted Discussion
 ---
 
 The next ScotLUG will be on Thursday 27th June May at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 6:45 PM. We will be aiming to start the talk at 7:30 PM.
