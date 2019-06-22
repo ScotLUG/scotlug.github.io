@@ -1,0 +1,23 @@
+---
+title: Self-Hosted Discussios
+---
+
+The next ScotLUG will be on Thursday 27th June May at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 6:45 PM. We will be aiming to start the talk at 7:30 PM.
+
+---
+
+As makers, tinkerers and general technical people, we find that we are increasingly relying on third party software as a service to organise ourselves. There are a number of Free Software solutions that we can run ourselves as a replacement for some of these products and services.
+
+During this sessions, we are going to discuss:
+  
+  * Which software-as-a-service products to people use on a day to day basis.
+  * Which free software solutions availale, which ones are attendees running for themselves.
+  * What are the barriers to self hosting. How much infrastructure do we really need.
+  * Are there other community alternatives?
+  * Should we care?
+
+---
+
+Following the talk we will be adjourning to a local bar, this is likely to Henglers Circus, across the road from the CCA. There is no requirement to purchase food or drink if you don't want to.
+
+Hope to see you all there.
