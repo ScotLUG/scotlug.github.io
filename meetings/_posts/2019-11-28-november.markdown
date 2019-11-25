@@ -6,7 +6,7 @@ The next ScotLUG meeting will be on Thursday 28th November at the usual spot, th
 
 This month, we have a talk from Gordon Martin, who has kindly offered to speak about Scuttlebutt.
 
-Scuttlebutt (ssb) is a Peer 2 Peer (p2p) and off-grid Social Network protocol. Applications built with the Scuttlebutt protocol (such as and Patchwork, a facebook like UI for desktop, and Manyverse for android) store your data, the data of your friends (and their friends) on the device, allowing posts to be made and old posts to be explored offline. You can keep up to date with your friends' posts by replicating with them over LANs, Bluetooth and over the Internet. This makes scuttlebutt a resilient network which does not rely on any central servers to operate (although fungible servers may be deployed by anyone for convenient replicationover the Internet).
+Scuttlebutt (ssb) is a Peer 2 Peer (p2p) and off-grid Social Network protocol. Applications built with the Scuttlebutt protocol (such as Patchwork, a facebook like UI for desktop, and Manyverse for android) store your data, the data of your friends and their friends on the device, allowing posts to be made and old posts to be explored offline. You can keep up to date with your friends' posts by replicating with them over LANs, Bluetooth and over the Internet. This makes scuttlebutt a resilient network which does not rely on any central servers to operate (although fungible servers may be deployed by anyone for convenient replicationover the Internet).
 
 In this talk, Gordon will introduce some of the motivations behind the project, and a high overview of how the protocol works, and give a demo of some Scuttlebutt viewer applications (including a chess implementation, and good-reads like book review app.)
 
