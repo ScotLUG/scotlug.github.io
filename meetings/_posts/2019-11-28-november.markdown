@@ -10,8 +10,8 @@ Scuttlebutt (ssb) is a Peer 2 Peer (p2p) and off-grid Social Network protocol. A
 
 In this talk, Gordon will introduce some of the motivations behind the project, and a high overview of how the protocol works, and give a demo of some Scuttlebutt viewer applications (including a chess implementation, and good-reads like book review app.)
 
-  * Website: <a href="https://www.scuttlebutt.nz">https://www.scuttlebutt.nz</a>
-  * Articles: <a href="https://scuttlebutt.nz/docs/media/">https://scuttlebutt.nz/docs/media/</a>
+  * Website: <a href="https://www.scuttlebutt.nz" target="_blank">https://www.scuttlebutt.nz</a>
+  * Articles: <a href="https://scuttlebutt.nz/docs/media/" target="_blank">https://scuttlebutt.nz/docs/media/</a>
 
 Following the talk we will be adjourning to a local bar, this is likely to Henglers Circus, across the road from the CCA. There is no requirement to purchase food or drink if you don’t want to.
 
