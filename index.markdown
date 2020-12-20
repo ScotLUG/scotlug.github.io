@@ -23,5 +23,5 @@ In addition to Glasgow, [Falkirk][] and [Edinburgh][] both have active Linux Use
 [Falkirk]: https://plus.google.com/115476628113417487323
 [Edinburgh]: http://www.edlug.org.uk/
 [UK Linux User Groups organisation]: https://lug.org.uk/
-[user groups across Scotland]: https://lug.org.uk/lugs/scotland
+[user groups across Scotland]: https://lug.org.uk/lugs/Scotland
 [Registration and more information is available here]: https://2015.spaceappschallenge.org/location/glasgow/
