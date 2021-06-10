@@ -18,7 +18,7 @@ Our IRC channel, [#scotlug][], is usually busy and helpful.  There is a [mailing
 In addition to Glasgow, [Falkirk][] and [Edinburgh][] both have active Linux User Groups.  The [UK Linux User Groups organisation][] has a list of other [user groups across Scotland][].
 
 [Electron Club]: http://www.electronclub.org/doku.php?id=welcome#where_to_find_us
-[#scotlug]: https://webchat.freenode.net/?randomnick=1&amp;channels=%23scotlug&amp;prompt=1
+[#scotlug]: https://web.libera.chat/#scotlug
 [mailing list]: http://mailman.lug.org.uk/mailman/listinfo/scottish
 [Falkirk]: https://plus.google.com/115476628113417487323
 [Edinburgh]: http://www.edlug.org.uk/
