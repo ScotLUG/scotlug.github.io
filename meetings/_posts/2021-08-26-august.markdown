@@ -2,10 +2,10 @@
 title: Planning 2021 - 2022
 ---
 
-The next ScotLUG meeting will be on Thursday 29th August at the usual spot, the Electron Club in the CCA. We should be kicking around the Electron Club around 7:00PM.
+Our next meeting will be on Thursday 26th August.
 
-In line with the past few years, the first meeting after summer has been our planning meeting. We will be getting together to come up with a suggested talk plan and try to flesh out some new ideas for the coming year.
+We will be kicking off another year of ScotLUG. As we’ve done over the past few years, we have used or first meeting of the academic year to plan,or at least set forward a roadmap of the coming year.
 
-Following the talk we will be adjourning to a local bar, this is likely to Henglers Circus, across the road from the CCA. There is no requirement to purchase food or drink if you don't want to.
+If you’ve got any ideas for talks, or anything you want to bring up on the night – let me know!
 
-Hope to see you all there.
+We’re going to have a 20 minute session at the end for a Linux or Open Source Q&A session. It is our hope that you can use this time to work on/ with a project that you’re really passionate about, if not get advice on how to go about doing this.
