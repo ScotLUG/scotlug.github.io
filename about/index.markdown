@@ -4,7 +4,7 @@ media:
 - uri: /assets/group_photo.jpg
   alt: Group photo
   caption: Members of ScotLUG in 2014.
-lead: "[#scotlug](https://webchat.freenode.net/?randomnick=1&amp;channels=%23scotlug&amp;prompt=1) is the IRC presence of ScotLUG, the Scottish Linux User Group.  We are hosted on the [freenode](https://freenode.net/) network."
+lead: "[#scotlug](https://web.libera.chat/?channels=#scotlug) is the IRC presence of ScotLUG, the Scottish Linux User Group.  We are hosted on the [freenode](https://freenode.net/) network."
 title: About
 ---
 
