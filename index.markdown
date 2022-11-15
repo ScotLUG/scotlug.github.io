@@ -9,11 +9,11 @@ lead: This is the official site for the **Scottish Linux User Group** in Glasgow
 ---
 
 {% assign meeting = site.categories.meetings.first %}
-The next meeting, **[{{ meeting.title }}]({{ meeting.url }})**, is on {{ meeting.date | date: "%A, %-d %B" }}.
+The next meeting, **[{{ meeting.title }}]({{ meeting.url }})**, is on {{ meeting.date | date: "%A, %-d %B" }} at the earlier time of 18:30.
 
-Meetings are held at 19:00, with the talk beginning at 19:30, every last Thursday of the month at the [Electron Club][].  Check out our past meetings, what’s on this month, and what might be coming up on our [meetings](/meetings) page.
+Meetings are usually held at 19:00, with the talk beginning at 19:30, every last Thursday of the month at the [Electron Club][].  Check out our past meetings, what's on this month, and what might be coming up on our [meetings](/meetings) page.
 
-Our IRC channel, [#scotlug][], is usually busy and helpful.  There is a [mailing list][] for general announcements.
+Our IRC channel, [#scotlug][], is usually helpful.  There is a [mailing list][] for general announcements.
 
 In addition to Glasgow, [Falkirk][] and [Edinburgh][] both have active Linux User Groups.  The [UK Linux User Groups organisation][] has a list of other [user groups across Scotland][].
 
