@@ -1,0 +1,14 @@
+---
+title: Arch as a daily driver 
+---
+
+The next ScotLUG will be on 25th May 2023.  This month Sophie will be presenting a talk on [Arch Linux](https://archlinux.org/), and how [Arch](https://archlinux.org) can  be used for your daily computing needs &hellip; 
+a
+---
+
+Agenda:
+
+ * 19:00 Meet at the Electron Club
+ * 19:15 Arch as a daily driver
+ * 19:45 Questions
+ * 20:00 [Henglers Circus](https://goo.gl/maps/VcULEpKxQhmujM3v8) 
