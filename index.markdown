@@ -8,7 +8,7 @@ lead: This is the official site for the **Scottish Linux User Group** in Glasgow
 
 ---
 
-{% assign meeting = site.categories.meetings.first %}
+{% assign meeting = site.categories.meetings.third %}
 
 The next meeting, **[{{ meeting.title }}]({{ meeting.url }})**, is on {{ meeting.date | date: "%A, %-d %B" }}.
 
