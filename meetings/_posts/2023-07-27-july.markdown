@@ -1,12 +1,8 @@
 ---
-title: Arch as a daily driver 
+title: Does it really run Linux? 
 ---
 
-This month Sophie will be presenting a talk on [Arch Linux](https://archlinux.org/), and how [Arch](https://archlinux.org) can be used for your daily computing needs.  
-
- * What is [Arch](https://archlinux.org)
- * Setting up [Arch](https://archlinxu.org)
- * Getting the most out of [Arch](https://archlinxu.org)
+More details to follow&hellips;  
 
 
 ---
@@ -14,6 +10,6 @@ This month Sophie will be presenting a talk on [Arch Linux](https://archlinux.or
 Agenda:
 
  * 19:00 Meet at the Electron Club
- * 19:15 Arch as a daily driver
+ * 19:15 Does it really run Linux? 
  * 19:45 Questions
  * 20:00 retire to the [Henglers Circus](https://goo.gl/maps/VcULEpKxQhmujM3v8) 
