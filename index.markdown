@@ -7,10 +7,12 @@ title: Welcome
 lead: This is the official site for the **Scottish Linux User Group** in Glasgow.
 
 ---
-
-{% assign meeting = site.categories.meetings.third %}
-
+    {% assign meeting = site.categories.meetings.first %}
+<!-- /* comment out until august 2023 */ 
 The next meeting, **[{{ meeting.title }}]({{ meeting.url }})**, is on {{ meeting.date | date: "%A, %-d %B" }}.
+-->
+We are having a break in [June](/meetings/2023/june.html), with the next meeting in [July](/meetings/2023/july.html) and a [{{ meeting.title }}]({{meeting.url}}) in [August](/meetings/2023/august.html).
+
 
 Meetings are usually held at 19:00, with the talk beginning at 19:15, every last Thursday of the month at the [Electron Club][].  Check out our past meetings, what's on this month, and what might be coming up on our [meetings](/meetings) page.
 
