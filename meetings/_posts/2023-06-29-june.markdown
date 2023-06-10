@@ -2,5 +2,5 @@
 title: Summer Break 
 ---
 
-This month we are having a summer break&hellip; see you in July
+This month we are having a summer break&hellip; see you in [July](/meetings/2023/july.html)
 
