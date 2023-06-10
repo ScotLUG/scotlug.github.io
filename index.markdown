@@ -9,13 +9,10 @@ lead: This is the official site for the **Scottish Linux User Group** in Glasgow
 ---
 
 {% assign meeting = site.categories.meetings.first %}
-ScotLUG wishes everyone a Happy New Year!
 
 The next meeting, **[{{ meeting.title }}]({{ meeting.url }})**, is on {{ meeting.date | date: "%A, %-d %B" }}.
 
-We are planning our next talk at the [Electron Club][] for Thursday, 27 April 23...
-
-Meetings are usually held at 19:00, with the talk beginning at 19:30, every last Thursday of the month at the [Electron Club][].  Check out our past meetings, what's on this month, and what might be coming up on our [meetings](/meetings) page.
+Meetings are usually held at 19:00, with the talk beginning at 19:15, every last Thursday of the month at the [Electron Club][].  Check out our past meetings, what's on this month, and what might be coming up on our [meetings](/meetings) page.
 
 Our IRC channel, [#scotlug][], is usually helpful.  There is a [mailing list][] for general announcements.
 
