@@ -2,17 +2,12 @@
 title: Planning Meeting For September LUG Day 
 ---
 
-This month we will be planning the September LUG Day:
+This months meeting has been postponed.
+
+We will be planning the September LUG Day:
 
  * Confirm date in September for Linux Day
  * Confirm venue (ask Neil ;~)) 
 
+If you would like to help please contact us.
 
----
-
-Agenda:
-
- * 19:00 Meet at the Electron Club
- * 19:15 Planning meeting
- * 19:45 Any other business
- * 20:00 retire to the [Henglers Circus](https://goo.gl/maps/VcULEpKxQhmujM3v8) 
