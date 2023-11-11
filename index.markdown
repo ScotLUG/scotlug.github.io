@@ -15,7 +15,7 @@ We are in the process of planning an event for September 2023, and will hopefull
 
 Meetings are usually held at 19:00, with the talk beginning at 19:15, every last Thursday of the month at the [Electron Club][].  Check out our past meetings, what's on this month, and what might be coming up on our [meetings](/meetings) page.
 
-Our IRC channel, [#scotlug][], is usually helpful (also available on [Matrix][].  There is a [mailing list][] for general announcements.
+Our IRC channel, [#scotlug][] on libera.chat (or [Matrix][]), is usually helpful.  There is a [mailing list][] for general announcements.
 
 In addition to Glasgow, [Falkirk][] and [Edinburgh][] both have active Linux User Groups.  The [UK Linux User Groups organisation][] has a list of other [user groups across Scotland][].
 
