@@ -12,5 +12,7 @@ This will be an opportunity to find out about Open Source Operating Systems and 
 
 There will also be an opportunity have the ScotLUG look at repairing old hardware / laptops and see if we can revive them!
 
-If you would like to help please contact us.
+If you can bring a 4Gb USB pendrive then we can give you a copy of a LiveUSB pendrive for trying Linux at home!
+
+If you would like to help please contact fred at [scotlug@crowsons.com](mailto:scotlug@crowsons.com).
 
